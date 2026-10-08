@@ -2,11 +2,12 @@
 
 A production-ready, highly scalable, and modern full-stack e-commerce platform built using a monolithic architecture. 
 
-![java](https://img.shields.io/badge/Next.js%2014-Black?logo=next.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![JPA](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## 📋 Table of Contents

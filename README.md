@@ -2,10 +2,10 @@
 
 A production-ready, highly scalable, and modern full-stack e-commerce platform built using a monorepo architecture. 
 
-![Next.js](https://img.shields.io/badge/Next.js%2014-Black?logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![java](https://img.shields.io/badge/Next.js%2014-Black?logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![JPA](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
@@ -33,7 +33,7 @@ This project follows a **Monorepo Strategy** using standard NPM Workspaces, sepa
 - **Form Handling & Validation:** React Hook Form, Zod
 
 ### Backend (`apps/api`)
-- **Framework:** NestJS
+- **Framework:** Spring Boot
 - **Database:** PostgreSQL
 - **ORM:** Prisma ORM
 - **Authentication:** Passport JWT

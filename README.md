@@ -1,6 +1,6 @@
 # REYVA E-Commerce Platform
 
-A production-ready, highly scalable, and modern full-stack e-commerce platform built using a monorepo architecture. 
+A production-ready, highly scalable, and modern full-stack e-commerce platform built using a monolithic architecture. 
 
 ![java](https://img.shields.io/badge/Next.js%2014-Black?logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
